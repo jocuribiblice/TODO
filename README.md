@@ -1,6 +1,7 @@
 # TODO
 Random ideas
 
+* Versiune - autor etc - simplificat ca să intre pe un rând și pe mobil.
 * Refă textele. Nu mai cerșim nimic. O listă scurtă de ce e nevoie - suficient atât.
 * Sunt aiurea spațierile dintre butoane. Într-o mie de feluri. Repară peste tot.
 * Website: pune niște imagini mai drăguțe și mai personalizate pentru fiecare preview de aplicație.
