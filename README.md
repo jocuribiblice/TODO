@@ -1,6 +1,7 @@
 # TODO
 Random ideas
 
+* Disable button Următorul până când răpunde omul corect la exercițiul curent.
 * Versiune - autor etc - simplificat ca să intre pe un rând și pe mobil.
 * Refă textele. Nu mai cerșim nimic. O listă scurtă de ce e nevoie - suficient atât.
 * Sunt aiurea spațierile dintre butoane. Într-o mie de feluri. Repară peste tot.
