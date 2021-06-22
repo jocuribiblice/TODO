@@ -9,3 +9,4 @@ Random ideas
 * La hangman poate ar fi fain să apară imagine treptat (acea pizza chart să ascundă sub ea imaginea ajutătoare pe care să o descopere cu fiecare greșeală făcută).
 * Postări insta cu întrebări
 * Share this opțiune
+* Text SEO cu cuvinte cheie
