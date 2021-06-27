@@ -10,3 +10,4 @@ Random ideas
 * Postări insta cu întrebări
 * Share this opțiune
 * Text SEO cu cuvinte cheie
+* Analiză statistici - pe săptămână
