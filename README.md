@@ -11,3 +11,5 @@ Random ideas
 * Share this opțiune
 * Text SEO cu cuvinte cheie
 * Analiză statistici - pe săptămână
+* Vezi site-uri similare
+* Parteneriate?
