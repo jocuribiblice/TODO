@@ -1,6 +1,7 @@
 # TODO
 Random ideas
 
+* Adaugă conținut nou în jocurile implementate.
 * Joc: Memory Game
 * Joc: În ce carte a Bibliei scrie despre (om, loc, istorioară)?
 * Joc: Adevărat sau Fals?
